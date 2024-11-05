@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>Contact</title>
-    <link rel="stylesheet" href="{{ asset('resources/css/app.css') }}">
+    <link rel="stylesheet" href="{{ asset('sustainable/public/css/app.css') }}">
 </head>
 <body>
     <div class="container">
